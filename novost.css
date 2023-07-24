@@ -1,0 +1,298 @@
+main {
+    display: flex;
+}
+
+article {
+    width: 781px;
+    margin-top: 0px;
+    margin-right: 29px;
+    margin-left: 81px;
+    display: flex;
+    flex-direction: column;
+}
+
+article h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 120%;
+    /* or 42px */
+
+
+    color: #000000;
+    margin-bottom: 33px;
+
+}
+
+article .info {
+    margin-top: 31px;
+    margin-bottom: 18px;
+}
+
+.im img {
+    width: 780px;
+    height: 407px;
+}
+
+article p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    /* or 27px */
+
+
+    color: #000000;
+}
+
+.novost p {
+    margin-bottom: 16px;
+}
+
+.novost {
+    margin-bottom: 44px;
+    margin-top: 34px;
+}
+
+.komentar {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+
+
+    /* Mid Gray */
+
+    color: #000000;
+    margin-bottom: 16px;
+}
+
+.komentar span {
+    color: #888888;
+}
+
+.left {
+    width: 98px;
+    margin-top: 274px;
+}
+
+/*  */
+/*  */
+/*  */
+
+
+.comsec {
+    display: flex;
+    flex-direction: column;
+    width: 780px;
+    height: 100px;
+    margin-bottom: 200px;
+    border-top: 1px solid #ECECEC;
+}
+
+.ostkom {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 44px;
+    margin-bottom: 44px;
+}
+
+.profile {
+    width: 69px;
+    height: 69px;
+    margin-right: 21px;
+}
+
+.text p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+
+
+    /* Mid Gray */
+
+    color: #888888;
+    width: 690px;
+    border-bottom: 1px solid #ECECEC;
+    padding-bottom: 4px;
+}
+
+.text span {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 150%;
+    /* identical to box height, or 21px */
+
+
+    color: #000000;
+    margin-right: 33px;
+}
+
+button {
+    display: flex;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 150%;
+    /* identical to box height, or 21px */
+
+
+    color: #FFFFFF;
+    outline: 0;
+    background: #FF1850;
+    padding: 13px 31px 15px 32px;
+    border: 0px;
+}
+
+.knopki {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-top: 11px;
+}
+
+/*  */
+/*  */
+/*  */
+.comsec p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+
+
+    color: #000000;
+
+}
+
+.kom1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.kom1text {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+
+
+    color: #000000;
+
+}
+
+.comsec h2 {
+    margin-bottom: 6px;
+}
+
+.niz {
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.niz span {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+
+
+    color: #000000;
+
+}
+
+.niz p {
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+
+
+    /* Mid Gray */
+
+    color: #888888;
+    margin-right: 23px;
+
+}
+
+.skrit {
+    display: flex;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+
+
+    /* Brand Color */
+
+    color: #FF1850;
+    margin-bottom: 17px;
+}
+
+.skrit img {
+    margin-right: 12px;
+}
+
+.profilemini {
+    margin-right: 23px;
+}
+
+.kom1mini {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 23px;
+}
+
+.kom1mini:last-child {
+    margin-bottom: 40px;
+}
+
+.kom1mini span {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+
+
+    /* Brand Color */
+
+    color: #FF1850;
+
+}
+
+.comsec h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    /* identical to box height, or 24px */
+
+
+    color: #000000;
+}
